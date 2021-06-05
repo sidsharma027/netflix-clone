@@ -1,0 +1,12 @@
+TMDB api key :
+
+    a7b524fa8b69702169ca9ce073fdfb5c
+
+Example api request:
+
+    https://api.themoviedb.org/3/movie/550?api_key=a7b524fa8b69702169ca9ce073fdfb5c
+
+Firebase CLI:
+    
+    npm install -g firebase-tools
+
